@@ -166,6 +166,13 @@ h3 {
 .text-color {
     color: #6c757d !important;
 }
+.container h1 {
+    font-size: 64px;
+    line-height: 80px;
+}
+.container a{
+    text-decoration: none;
+}
 @media (max-width:576px) {
     .container h1 {
         font-size: 40px;
